@@ -1,0 +1,62 @@
+body {
+  background: none;
+    background-repeat: no-repeat;
+    background-color: #FFFFFF;
+    background-position: right bottom;
+   	color: #575757;
+   
+}
+
+.reveal h1 {
+    color: #ef8b35;
+    text-shadow: none;
+    font-size: 1.6em;
+    font-family: 'Quicksand', Arial, serif;
+}
+
+.reveal h2{
+	/*color: #575757;*/
+	color: #ef8b35;
+	font-size: 1.4em;
+	font-family: 'Quicksand', Arial, serif;
+	font-weight: 400; 
+	line-height: 1.5em;
+}
+
+.reveal h2 .baseline{
+	font-size: 0.9em;
+    /*color: #575757;*/
+    color: #ef8b35;
+    text-transform: none;
+    font-weight: 400; 
+ }
+
+.reveal section img {
+    border: none;
+    background: none;
+    box-shadow: none;
+}
+
+.reveal pre {
+    box-shadow: none;
+}
+
+.reveal .separator{
+	height: 1.5em; 
+}
+
+.reveal section ul li {
+ 	font-size: 0.8em;
+	color: #575757; 
+	list-style-image: url('../images/puce.png');
+	font-family: 'Quicksand', Arial, serif;
+   	font-weight: 400; 
+}
+
+
+.reveal p{
+	font-size: 0.8em;
+	color: #575757;
+	font-family: 'Quicksand', Arial, serif;
+   	font-weight: 400; 
+}
